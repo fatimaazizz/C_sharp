@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2013\Projects\CMS\CMS\bin\Debug\Database1.mdf
+c:\users\user\documents\visual studio 2013\Projects\CMS\CMS\bin\Debug\Database1_log.ldf
+c:\users\user\documents\visual studio 2013\Projects\CMS\CMS\bin\Debug\CMS.exe
+c:\users\user\documents\visual studio 2013\Projects\CMS\CMS\bin\Debug\CMS.pdb
+c:\users\user\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.exe
+c:\users\user\documents\visual studio 2013\Projects\CMS\CMS\obj\Debug\CMS.pdb
